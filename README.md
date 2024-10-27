@@ -1,16 +1,18 @@
 <h2 align="center">Olá! 👩🏽‍💻Sejam bem vindes ao meu GitHub!</h2>
 
-💻 Eu estou estudando para ser uma desenvolvedora [Front-End], e iniciei na faculdade de Análise e Desenvolvimento de Sistemas!
+💻 Eu estou estudando para ser uma desenvolvedora [Front-End] e [Data Analytics], além disso, iniciei na faculdade de Análise e Desenvolvimento de Sistemas!
 
 🎓 Eu sou formada em Direito, com vasto conhecimento nas áreas Trabalhista, Execução Fiscal e Cível!
 
 👩‍💻 Atualmente eu trabalho na área jurídica, tentando migrar para T.I
 
 ###
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m0ntovani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m0ntovani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=montovani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&custom_title=Thiffany%20%20Montovani" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=montovani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+###
 </div>
 
 
@@ -19,7 +21,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
 
@@ -27,8 +29,6 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
 
 
 ###
